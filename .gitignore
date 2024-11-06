@@ -1,0 +1,9 @@
+.env
+documents
+venv
+*.sqlite3
+*.db
+test.py
+*.log
+*.pyc
+.DS_Store

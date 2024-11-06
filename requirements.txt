@@ -1,0 +1,5 @@
+vk_api
+environs
+requests
+sqlalchemy
+psycopg2--binary
